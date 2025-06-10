@@ -20,10 +20,10 @@ h1 {
   letter-spacing: 1.2em;
   font-size: 2rem;
   border-bottom: solid 3px rgb(115, 115, 114);
-  font-family: "Arial", "Meiryo", sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
 
 }
 
-#basic > p {
+#basic>p {
   font-weight: bold;
 }
